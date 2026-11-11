@@ -1,0 +1,22 @@
+{
+  "wheel_id": 872,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-118",
+  "project": "earthmoving-services-adelaide-seasonal-timing-48da097e5a9dad245",
+  "parent_t1_ref": "simplyearthworks-158",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving services adelaide seasonal timing",
+  "intended_url": "http://earthmoving-services-adelaide-seasonal-timing-48da097e5a9dad245.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "e04e9eb5f7e34e6f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/earthmoving-services-adelaide-diy-vs-professional-4f684f9a49425/",
+      "anchor": "Earthmoving Services Adelaide Diy vs Professional: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
